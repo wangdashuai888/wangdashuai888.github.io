@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangdashuai888.github.io</id>
     <title>DoNotLeak</title>
-    <updated>2020-08-05T13:31:37.111Z</updated>
+    <updated>2020-08-05T13:32:34.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangdashuai888.github.io"/>
     <link rel="self" href="https://wangdashuai888.github.io/atom.xml"/>
@@ -25,14 +25,14 @@
 <hr>
 <p>###记录一下最近常用的指令和脚本：<br>
 使用旧版本pip</p>
-<pre><code class="language-centos">wget https://pypi.python.org/packages/source/p/pip/pip-9.0.1.tar.gz --no-check-certificate
+<pre><code>wget https://pypi.python.org/packages/source/p/pip/pip-9.0.1.tar.gz --no-check-certificate
 tar -xzvf pip-9.0.1.tar.gz
 cd pip-9.0.1
 python setup.py install
 pip install cymysql==0.9.4
 </code></pre>
 <p>安装所有依赖</p>
-<pre><code class="language-linux">pip install -r requirements.txt
+<pre><code>pip install -r requirements.txt
 </code></pre>
 <hr>
 <p>一键安装BBR Plus<br>
