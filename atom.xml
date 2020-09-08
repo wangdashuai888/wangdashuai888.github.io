@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangdashuai888.github.io</id>
     <title>DoNotLeak</title>
-    <updated>2020-09-08T16:02:54.006Z</updated>
+    <updated>2020-09-08T16:03:33.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangdashuai888.github.io"/>
     <link rel="self" href="https://wangdashuai888.github.io/atom.xml"/>
@@ -10,23 +10,6 @@
     <logo>https://wangdashuai888.github.io/images/avatar.png</logo>
     <icon>https://wangdashuai888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DoNotLeak</rights>
-    <entry>
-        <title type="html"><![CDATA[zoom链接]]></title>
-        <id>https://wangdashuai888.github.io/post/zoom-lian-jie/</id>
-        <link href="https://wangdashuai888.github.io/post/zoom-lian-jie/">
-        </link>
-        <updated>2020-09-08T16:00:56.000Z</updated>
-        <content type="html"><![CDATA[<p>Univ<br>
-https://virginiatech.zoom.us/j/93258032092<br>
-2514<br>
-https://virginiatech.zoom.us/j/94092954027<br>
-passcode =486673<br>
-2544<br>
-https://virginiatech.zoom.us/j/97185630568<br>
-2574<br>
-https://virginiatech.zoom.us/j/91856587057?pwd=WHdKQm9jZXRQcTJ3eURSUzQ1Vi9aZz09</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[最近安装面板后端的总结]]></title>
         <id>https://wangdashuai888.github.io/post/zui-jin-an-zhuang-mian-ban-hou-duan-de-zong-jie/</id>
