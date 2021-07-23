@@ -135,11 +135,11 @@ pip install cymysql==0.9.4
 <pre><code>./tail.sh
 </code></pre>
 <hr>
-<p>监控脚本<br>
+<p>bt不绑定手机<br>
 <a href="https://auto.feipig.cc/">登录地址</a></p>
-<pre><code>wget --no-check-certificate https://auto.feipig.cc/install_AutoClient.sh -O install_AutoClient.sh &amp;&amp; bash install_AutoClient.sh A.B.C.D
+<pre><code>sed -i "s|if (bind_user == 'True') {|if (bind_user == 'REMOVED') {|g" /www/server/panel/BTPanel/static/js/index.js
+rm -rf /www/server/panel/data/bind.pl
 </code></pre>
-<p>ABCD需替换成对应ip</p>
 <hr>
 <p>逗比backup无脑一键ssr脚本</p>
 <pre><code>wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssr.sh &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh
